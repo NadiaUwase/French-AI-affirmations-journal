@@ -21,12 +21,8 @@ global anger
 
 # title of the application
 st.write("""
-## JAFFIRM
-
-""")
-st.image("data/photo.jpg")
-st.write("""
-### Journale intime avec des affirmations personalise
+# JAFFIRM
+## Journale intime avec des affirmations personalise
 
 ### Des affirmations pour vous aider dans des moments difficile et vous rapellez que tout ira bien, pour vous aidez a cultiver une mentalite plus positive
 """)
