@@ -1,0 +1,1 @@
+# French-AI-affirmations-journal
